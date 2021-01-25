@@ -2,7 +2,7 @@
 ## Installation
 Clone the repository 
 ```
-  git clone https://github.com/willjean29/GCM-PIXIE-BACK.git
+  git clone https://github.com/willjean29/GCM_PIXIE.git
 ```
 Create a file with the name .env in the server folder with the following Environment variables:
 ```
